@@ -1,0 +1,96 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    
+}
+ 
+
+.logo{
+    width: 100%;
+   
+    height: 120px;
+    
+
+}
+
+.logo img{
+    margin-top: 20px;
+    width: auto;
+    height: 300px;
+    margin-top: -89px;
+}
+
+
+input {
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(232, 240, 254);
+}
+
+.id{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+.btn{
+    background-color: transparent;
+}
+
+
+.principal{
+    background-image: linear-gradient( red,rgb(255, 208, 0),  #0d62ff);
+    color: rgb(255, 255, 255);
+    width: 40%;
+    height: 700x;
+    text-align: center;
+    border-radius: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 4px 9px 19px rgb(0, 0, 0);
+    margin-top: 30px;
+    
+}
+
+.data-pokemon-name{
+    font-size: 30px;
+    color: rgb(255, 208, 0);
+    text-transform: uppercase;
+
+}
+
+
+.names-poke{
+    margin-top: 20px;
+}
+
+.poke-style{
+    height: 400px;
+    width: 100%;
+
+    border-radius: 55px;
+}
+
+
+
+.poke-img {
+    width: 160px;
+    border-radius: 18%;
+    text-align: center;
+    background-color:transparent;
+ 
+    
+
+}
+
+.poke-types{
+    font-weight: bold;
+    color: rgb(255, 255, 254);
+    width: 100%;
+    height: 600px;
+    text-transform: uppercase;
+}
+
+
+
+
